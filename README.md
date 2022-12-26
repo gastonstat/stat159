@@ -14,3 +14,41 @@
 
 - __Prerequisites__: Statistics 133, 134, 135
 
+
+-----
+
+
+## Software
+
+We are going to be using several tools along this course. Which means that you will have to install the following programs (_if you run into any installation problems google it first or check youtube videos; if that doesn't work then ask the GSI or the instructor_):
+
+- __Git__ (version control)
+	- https://git-scm.com/downloads
+
+- __GitHub__ (Git repository hosting service)
+	- https://github.com/
+  - Open account (if you don't have one): https://github.com/join
+
+- __R__ (statistical & data analysis software)
+	- Mac OS X: https://cran.r-project.org/bin/macosx/
+	- Windows: https://cran.r-project.org/bin/windows/base/
+	- Linux: https://cran.r-project.org/bin/linux/
+
+- __Posit RStudio__ (IDE for R)
+	- Desktop (free) version: https://posit.co/downloads/
+
+- __Rtools__ (tools for building R in Windows)
+	- If you work with Windows, you will need to download Rtools
+	- https://cran.r-project.org/bin/windows/Rtools/
+
+- __Tex/LaTeX__ (typesetting system)
+	- MacTeX (Mac OS X): https://tug.org/mactex/
+	- MikTeX (Windows): http://miktex.org/download
+
+- __pandoc__ (universal document converter)
+	- https://pandoc.org/installing.html
+
+- __Xcode__ (IDE for Mac OS X)
+	- If you work on a Mac, you may need to install Xcode
+	- Mac OS X: https://developer.apple.com/xcode/downloads/
+
