@@ -52,3 +52,34 @@ We are going to be using several tools along this course. Which means that you w
 	- If you work on a Mac, you may need to install Xcode
 	- Mac OS X: https://developer.apple.com/xcode/downloads/
 
+
+-----
+
+
+## 1. Introduction
+
+:card_index: __ABOUT__:
+
+We begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.
+
+Every Data Analysis Project goes through a cycle: At the conceptual level, we'll identify the main stages of the data analysis cycle using sports data _Long Jump world records_ which are one of the oldest standing records in athletics.
+
+<br>
+
+:book: __READING__: 
+
+- Slides
+
+<br>
+
+:pencil2: __TOPICS__:
+
++ __Introduction__
+    - The Data Analysis Cycle (DAC)
+    - First contact with R and RStudio
+
++ __How not to do a Data Analysis__
+    - Understand limitations of WYSIWYG tools
+    - Advantages of using WYSIWYM tools
+
+
