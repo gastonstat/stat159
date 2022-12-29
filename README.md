@@ -83,3 +83,48 @@ Every Data Analysis Project goes through a cycle: At the conceptual level, we'll
     - Advantages of using WYSIWYM tools
 
 
+-----
+
+
+## 2. Reproducibility Crisis
+
+:card_index: __ABOUT__:
+
+In this module we review an infamous case of irreproducibility: the _Reinhart-Rogoff Debacle_
+
+<br>
+
+:book: __READING__: 
+
+Reinhart and Rogoff Reading Materials
+
+- [Researchers Finally Replicated Reinhart-Rogoff, and There Are Serious Problems.](http://rooseveltinstitute.org/researchers-finally-replicated-reinhart-rogoff-and-there-are-serious-problems/) (by Mike Konczal)
+
+- [Reinhart, Rogoff... and Herndon: The student who caught out the profs](http://www.bbc.com/news/magazine-22223190) (by Ruth Alexander)
+
+- [The Reinhart and Rogoff Controversy: A Summing Up](http://www.newyorker.com/news/john-cassidy/the-reinhart-and-rogoff-controversy-a-summing-up) (by John Cassidy) 
+
+- [FAQ: Reinhart, Rogoff, and the Excel Error That Changed History](http://www.bloomberg.com/news/articles/2013-04-18/faq-reinhart-rogoff-and-the-excel-error-that-changed-history)
+
+- [Holy Coding Error Batman](http://krugman.blogs.nytimes.com/2013/04/16/holy-coding-error-batman/) (by Paul Krugman)
+
+- [Reinhart and Rogoff working paper "Growth in a Time of Debt"](http://www.nber.org/papers/w15639)
+
+- [Various links for the "Special: Reinhart & Rogoff Debacle"](http://morelivers.blogspot.fr/2013/04/21st-apr-special-reinhart-rogoff-debacle.html) (curated by Moreliver's)
+
+<br>
+
+:pencil2: __TOPICS__:
+
++ __RR Case Study__
+    - Who are Reinhart and Rogoff (R&R)?
+    - What is their affiliation?
+    - About their working paper "Growth in times of debt" (GTD)
+    	+ What is the main thesis of the paper?
+    	+ What are their main findings?
+    	+ What are their conclusions?
+    - Story behind R&R fiasco:
+    	+ After the publication of GTD, who tries to reproduce their work?
+    	+ What is the story of the irreproducibility attempt?
+    	+ What is the cause of the irreproducibility?
+
