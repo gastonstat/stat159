@@ -14,6 +14,12 @@
 
 - __Prerequisites__: Statistics 133, 134, 135
 
+- __Policies__:
+    + [Lab](https://github.com/gastonstat/course-policies/blob/main/policy-lab.md)
+    + [HW](https://github.com/gastonstat/course-policies/blob/main/policy-hw.md)
+    + [Email](https://github.com/gastonstat/course-policies/blob/main/policy-email.md)
+    + [Academic Integrity](https://github.com/gastonstat/course-policies/blob/main/policy-academic-integrity.md)
+
 
 -----
 
