@@ -134,3 +134,56 @@ Reinhart and Rogoff Reading Materials
     	+ What is the story of the irreproducibility attempt?
     	+ What is the cause of the irreproducibility?
 
+
+-----
+
+
+## 3. Introduction to Markdown
+
+:card_index: __ABOUT__:
+
+Markdown is a lightweight markup language, originally created by 
+[John Gruber](http://daringfireball.net/) and Aaron Swartz allowing people 
+"to write using an easy-to-read, easy-to-write plain text format, then convert 
+it to structurally valid XHTML (or HTML)". 
+
+- About markup languages
+- Why do we need to use a markup language (and a text editor)?
+- What is the issue with word processors?
+
+Dynamic Documents with R
+
+- What is a dynamic document?
+- Dynamic documents and markup languages
+- Dynamic documents require a parser and renderer
+- In R, we have the packages "knitr", "rmarkdown", and "shiny"
+- Before knitr we had "Sweave" (with LaTeX)
+- LaTeX is still the _de rigueur_ scientific typesetting system
+
+<br>
+
+:book: __READING__: 
+
+- Slides
+
+<br>
+
+:pencil2: __TOPICS__:
+
++ __Markdown__
+    - More [technical details about Markdown](http://daringfireball.net/projects/markdown/)
+    - Markdown [philosophy](https://daringfireball.net/projects/markdown/syntax#philosophy)
+    - Small demos:
+    	+ from markdown to html
+    	+ from markdown to latex
+    	+ from markdown to pdf
+    	+ from markdown to docx
+    	+ etc
+    - Work with markdown online editors
+    - Let's check some basics with [markdown live preview](http://markdownlivepreview.com/) 
+    - .Rmd files in R
+
++ __R Markdown__
+    - Working with so-called "Dynamic Documents"
+    - Weaving and Knitting
+    - Combining narrative and code
